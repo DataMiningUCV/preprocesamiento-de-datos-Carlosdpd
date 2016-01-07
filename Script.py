@@ -49,4 +49,4 @@ data_frame.Edad = data_frame.Edad.astype(int)
 
 #Estandarizando escuelas
 
-#-------------- CONTINUARA PRONTO!!!!!!
+#-------------- CONTINUARA PRONTO!!!!!! GOD BLESS AMERICA
