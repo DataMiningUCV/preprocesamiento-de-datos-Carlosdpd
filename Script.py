@@ -92,8 +92,7 @@ data_frame.Fecha_Nac = data_frame.Fecha_Nac.replace({' ': '/'}, regex=True)
 
 data_frame.Fecha_Nac[12] = '10/05/1989'
 data_frame.Fecha_Nac[42] = '18/05/1992'
-#eliminamos esta instancia porque no tiene sentido alguno esta respuesta y la fecha de nacimiento es informacion vital
-#data_frame = data_frame.drop(data_frame.index[19])  
+
 
 
 #Estandarizando estados civiles
